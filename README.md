@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Habebryt
 - 👀 I’m interested in information security
-- 🌱 I’m currently learning web development
+- 🌱 Fullstack Developer
 - 💞️ I’m looking to collaborate on web app development
 - 📫 How to reach me https://wa.link/tl7y4q
 
