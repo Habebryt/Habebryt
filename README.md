@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Habebryt
-- 👀 I’m interested in information security
-- 🌱 Fullstack Developer
-- 💞️ I’m looking to collaborate on web app development
-- 📫 How to reach me https://wa.link/tl7y4q
+## James Kamanda
 
-<!---
-Habebryt/Habebryt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Business Analyst | CBAP | PMI-PBA
+
+8+ years delivering business analysis, data analytics, and process improvement
+across financial services, healthcare, and technology.
+
+**What I work with**
+SQL · Python · Power BI · Agile / SAFe · Jira · Confluence · AI/LLM Applications
+
+**What I do**
+Requirements elicitation · Process mapping · Dashboard development
+Cross-functional delivery · AI use-case definition · Stakeholder alignment
+
+📫 kamandajames.1996@gmail.com
